@@ -5,8 +5,8 @@ package com.lemon.backnightgit;
  */
 
 public class Console {
-    public static final String APP_SECRET = "ohQ2R6SKWPz1rj9cNRABSffSbKnbsnFb";
-    public static final String APP_KEY = "KfOC8qtE0HcGP7FIP1DCChRd";
+    public static final String APP_SECRET = "yV3LpGp4H8cMOdDLCnsLEiwG9rrvPpxI";
+    public static final String APP_KEY = "a7CQcRaEhuPbfa9S70GZMHog";
 
     //ShowApi
     public static final String APP_ID_API = "58849";

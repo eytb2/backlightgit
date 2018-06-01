@@ -7,6 +7,7 @@ import android.view.Gravity;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.lemon.backnightgit.R;
 
 
 public class CustomProgressDialog extends Dialog {

@@ -8,6 +8,7 @@ import android.view.View;
 import android.view.Window;
 import android.widget.TextView;
 
+import com.lemon.backnightgit.R;
 
 
 public class MyAlertDialog extends Dialog implements

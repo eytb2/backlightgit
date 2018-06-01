@@ -25,6 +25,7 @@ public class App extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
+
         initAccessTokenWithAkSk();
         JPushInterface.setDebugMode(true);
         JPushInterface.init(this);

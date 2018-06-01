@@ -1,6 +1,8 @@
 package com.lemon.backnightgit.utils;
 
 
+import com.orhanobut.hawk.Hawk;
+
 /**
  * key value实现,目前使用Hawk
  * Created by cretin on 3/8/16.
